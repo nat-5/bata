@@ -13,7 +13,7 @@
 ###### Colegio:
 - Santa Catalina Laboure
 ###### Nombre:
-- lIDIA NATALIA DE LÓN CHOCÓN
+- LIDIA NATALIA DE LÓN CHOCÓN
 - SARA ABIGAIL GÓMEZ HERRERA
 ###### Grado: 
 - V Bachillerato en Ciencias y Letras con Orientación en Computación
